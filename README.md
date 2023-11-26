@@ -1,5 +1,4 @@
-# Sample BIND repository
+# Sample hosts file
 
-Use this repository as a starting point for creating your BIND setup.
+Hosts file for use with a dnsmasq installation that fetches the newest hosts file from Github.
 
-You can later deploy it to my Docker container for low-config local DNS setup.
